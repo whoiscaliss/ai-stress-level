@@ -429,4 +429,3 @@ st.sidebar.info("App created to explore two student datasets. Save as a single f
 st.sidebar.write("Tips: Jika dataset besar, gunakan sample saat eksplorasi. Simpan artefak (ZIP) dan upload ke Google Drive sebagai bukti submit UAS.")
 
 st.write("\n---\nCreated with ❤️ — by Group 2 🐍🐍 (Steven Tang, Lily, Venessya Calista)")
-(apptest.py)
